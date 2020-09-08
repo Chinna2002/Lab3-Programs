@@ -8,4 +8,4 @@ res=[]#creating a new array
 for i in l1:
     if i not in res:
         res.append(i)
-print("New array is:",res)#
+print("New array is:",res)# Array without duplicate elements
